@@ -1,0 +1,61 @@
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/bin/Debug/net8.0/Turtle.exe
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/bin/Debug/net8.0/Turtle.deps.json
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/bin/Debug/net8.0/Turtle.runtimeconfig.json
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/bin/Debug/net8.0/Turtle.dll
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/bin/Debug/net8.0/Turtle.pdb
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfoInputs.cache
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfo.cs
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.csproj.CoreCompileInputs.cache
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.sourcelink.json
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.dll
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/refint/Turtle.dll
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.pdb
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/Turtle.genruntimeconfig.cache
+C:/Users/Алексей/OneDrive/Рабочий стол/codes/UnsortedLabs/turtle/Turtle/obj/Debug/net8.0/ref/Turtle.dll
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/bin/Debug/net8.0/Turtle
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/bin/Debug/net8.0/Turtle.deps.json
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/bin/Debug/net8.0/Turtle.runtimeconfig.json
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/bin/Debug/net8.0/Turtle.dll
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/bin/Debug/net8.0/Turtle.pdb
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfoInputs.cache
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfo.cs
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.csproj.CoreCompileInputs.cache
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.dll
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/refint/Turtle.dll
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.pdb
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/Turtle.genruntimeconfig.cache
+/Users/dianathebest/Downloads/Telegram Desktop/turtle/Turtle/obj/Debug/net8.0/ref/Turtle.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Turtle
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Turtle.deps.json
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Turtle.runtimeconfig.json
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Turtle.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Turtle.pdb
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfoInputs.cache
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.AssemblyInfo.cs
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.csproj.CoreCompileInputs.cache
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/refint/Turtle.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.pdb
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.genruntimeconfig.cache
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/ref/Turtle.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Dapper.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Npgsql.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.csproj.AssemblyReference.cache
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/obj/Debug/net8.0/Turtle.csproj.Up2Date
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/System.Text.Json.dll
+/Users/dianathebest/RiderProjects/Turtle_DB/Turtle/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll

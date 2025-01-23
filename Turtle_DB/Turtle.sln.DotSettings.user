@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02b177be_002Df0c1_002D4004_002D9117_002Db67a8c14227f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=22730cd2_002Df730_002D4308_002Dac77_002D9001a71cfbfe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_MoveCommand_DrawsLine" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad3138f6_002D0210_002D4704_002Da2bb_002D249e4380b18c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestPenDownAndMove" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c83804f9_002D8eba_002D4fa9_002D9bd3_002D5aa2514ee838/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMoveTurtleWithPenUp #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests.TestMoveTurtleWithPenUp&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=df07f329_002D1419_002D4b28_002D96d9_002Dfb627f078f57/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_MoveCommand_DrawsLine #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fca8726a_002D30f7_002D4db2_002Dbda8_002D105db1f5ecae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMoveTurtleWithPenUp" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::BB83AE2B-1828-4752-B236-4B6011DF2ACE::net8.0::TurtleTests.Tests.TestMoveTurtleWithPenUp&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
